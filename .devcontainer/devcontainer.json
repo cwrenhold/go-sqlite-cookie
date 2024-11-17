@@ -1,0 +1,6 @@
+{
+    "name": "go-sqlite-cookie Dev Container",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
